@@ -210,7 +210,7 @@ meshes.
 
 ## Licence
 
-[TO BE CONFIRMED]
+CC BY-NC 4.0
 
 ## Citation
 
